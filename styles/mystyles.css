@@ -1,0 +1,33 @@
+body{
+    background-color:rgba(216, 209, 200, 0.959) ;
+    text-align: center;
+   
+    
+  }
+  h1{
+    font-weight: lighter;
+    text-align: center;
+    
+  }
+
+  li{
+      font-weight: lighter;
+  }
+
+  ol{
+      list-style-type: numbers;
+      text-align: left;
+  }
+  ul{
+list-style-type: square;
+text-align: left;
+  }
+  iframe{
+text-align: center;
+  }
+  footer{
+    text-align: center;
+  }
+  h6{
+    font-weight: lighter;
+  }
